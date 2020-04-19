@@ -51,9 +51,9 @@ Essa API é responsável por fornecer uma análise de DNA fornecido, identifican
 	
 #### Acesso ao servidor para teste
 
- * [Inteface swagger - http://35.238.218.43/swagger-ui.html](http://35.238.218.43/swagger-ui.html)
- * [Endpoint /simian - http://35.238.218.43/simian](http://35.238.218.43/simian)
- * [Endpoint /stats - http://35.238.218.43/stats](http://35.238.218.43/stats)
+ * [Inteface swagger - http://104.155.157.148/swagger-ui.html](http://104.155.157.148/swagger-ui.html)
+ * [Endpoint /simian - http://104.155.157.148/simian](http://104.155.157.148/simian)
+ * [Endpoint /stats - http://104.155.157.148/stats](http://104.155.157.148/stats)
 	
 
 #### Referências
