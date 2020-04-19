@@ -48,6 +48,13 @@ Essa API é responsável por fornecer uma análise de DNA fornecido, identifican
  
 	$ docker run -p 3000:3000 -t dna-analyser
 	
+	
+#### Acesso ao servidor para teste
+
+[Inteface swagger - http://35.238.218.43/swagger-ui.html](http://35.238.218.43/swagger-ui.html)
+[Endpoint /simian - http://35.238.218.43/simian](http://35.238.218.43/simian)
+[Endpoint /stats - http://35.238.218.43/stats](http://35.238.218.43/stats)
+	
 
 #### Referências
 
