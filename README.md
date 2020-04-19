@@ -20,7 +20,7 @@ Essa API é responsável por fornecer uma análise de DNA fornecido, identifican
  
  * Após fazer o clone do projeto navege até o diretório principal da aplicação:
  
-	$ cd ~/dna-analyser 
+	$ cd ~/dna-analyzer 
 
  * Execute o seguinte commando para o maven baixar as dependências do projeto e compilar o jar:
 
@@ -42,11 +42,11 @@ Essa API é responsável por fornecer uma análise de DNA fornecido, identifican
 	
  * Faça o build da imagem docker do projeto:
  
-	$ docker build -t dna-analyser .
+	$ docker build -t dna-analyzer .
 	
  * Para iniciar a aplicação com o docker execute o seguinte comando:
  
-	$ docker run -p 3000:3000 -t dna-analyser
+	$ docker run -p 3000:3000 -t dna-analyzer
 	
 	
 #### Acesso ao servidor para teste
