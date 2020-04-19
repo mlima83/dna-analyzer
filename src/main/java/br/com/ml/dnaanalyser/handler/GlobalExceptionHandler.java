@@ -22,15 +22,5 @@ public class GlobalExceptionHandler {
         log.error(String.format("Erro %s", ex.getMessage()));
         return ResponseEntity.badRequest().body(ex.getMessage());
     }
-    
-
-//    @ExceptionHandler(Exception.class)
-//    public ResponseEntity handleBusinessException(HttpServletRequest request, Exception ex){
-//        log.error(String.format("Erro %s", ex.getMessage()));
-//        return ResponseEntity.badRequest().body("Ocorreu um erro inesperado.");
-//    }
-
-
-
 
 }
